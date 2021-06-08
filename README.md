@@ -5,7 +5,9 @@
 |____\___|_| |_|_|_|_|_||_\__,_|_|
 ```
 
-Learn how to use the terminal
+- A terminal command line tool designed to help you learn terminal quickly!
+- Easy to download and use
+- Want to retry a command? Now includes a "stepper" mode to repeat commands!
 
 [![Gitter](https://img.shields.io/gitter/room/lerminal/community.svg)](https://gitter.im/lerminal/community)
 [![Version](https://img.shields.io/npm/v/lerminal.svg)](https://npmjs.org/package/lerminal)
@@ -16,6 +18,15 @@ Learn how to use the terminal
 
 <!-- toc -->
 # Usage
+![Lerminal_usage](https://user-images.githubusercontent.com/46459060/121157228-9a5bd280-c806-11eb-82af-c718bc8f5768.png)
+
 <!-- usage -->
-# Commands
+# Commands supported
+- ls
+- cd
+- touch
+- mkdir
+- cp
 <!-- commands -->
+# Sample output
+![Lerminal_sample](https://user-images.githubusercontent.com/46459060/121157370-bc555500-c806-11eb-930f-db7fd42f0d47.png)
